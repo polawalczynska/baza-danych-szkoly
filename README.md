@@ -5,7 +5,7 @@
 Baza danych szkoly. Baza powinna przechowywac informacje o przedmiotach, nauczycielach,
 uczniach i ich stopniach oraz klasach i lekcjach.
 
-### Kompletny projekt powinien zawierać  (❌/✅)
+## Kompletny projekt powinien zawierać  (❌/✅)
 
 * diagram relacji (schemat bazy danych) ✅
 * skrypty SQL tworzące wszystkie obiekty bazy danych ✅
